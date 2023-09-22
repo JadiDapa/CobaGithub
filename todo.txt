@@ -1,2 +1,4 @@
 To Do List September 2023 :
 - Belajar Javascript
+- Belajar Arduino
+- Jalan jalan
